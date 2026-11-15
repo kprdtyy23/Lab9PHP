@@ -1,8 +1,8 @@
 <h1>LAPORAN HASIL PRAKTIKUM 9 | PHP<h1>
 
-<h4>Nama        :Eka Sari Praditya
-    NIM         :312510021
-    Mata Kuliah :Pemrograman Web<h4>
+<h4>Nama        :Eka Sari Praditya<h4>
+<h4>NIM         :312510021<h4>
+<h4>Mata Kuliah :Pemrograman Web<h4>
 
 # Latihan 1
 ![Gambar 1](ss/Latihan1.png)
